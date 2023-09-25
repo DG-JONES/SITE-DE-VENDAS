@@ -1,0 +1,70 @@
+header{
+    background-color: #98DCFF;
+     color: black;
+    border-bottom: 30px;
+     width: 100%;
+     height: 50px;
+ 
+}
+.menu{
+display: flex;
+    justify-content: space-between;
+    color: aliceblue;
+    
+}
+.div1{
+   background-color: #343A40;
+   color: black;
+   width: 100%;
+   height: 377px;
+   margin: auto;
+   text-align: center;
+}
+.dropdown{
+    margin: auto;
+    justify-content: space-between;
+}
+    .dropdown1{
+justify-content: space-between;
+    }
+        .card{
+            align-items: start;
+        }
+
+        .conteiner{
+            display: flex;
+            justify-content: space-between;
+            background-color: #343A40;
+        }
+
+            .card1{
+                display: flex;
+                justify-content: space-between;
+                background-color: #343A40;
+            }
+            .ll{
+                background-color: #343A40;
+            }
+            .l1{
+                background-color: #98DCFF;
+            }
+            
+            .logo{
+                     background-color: yellow;
+                width: 300px;
+                height: 300px;
+        
+        
+            }
+
+                 .div2{
+                            
+                            margin: auto;
+                            color: white;
+                            align-items: center;
+                            border-bottom: 100px ;
+                   background-color: #343A40;
+                    }
+                   button{
+                    background-color: #98DCFF;
+                   }
